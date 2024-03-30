@@ -1,8 +1,7 @@
 {
   "name": "frontend-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://Gopa123l.github.io/portfolio",
+  "private": true,  
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,9 +14,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+  "scripts": {    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
