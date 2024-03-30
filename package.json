@@ -2,7 +2,7 @@
   "name": "frontend-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Gopa123l.github.io/portfolio-website",
+  "homepage": "https://Gopa123l.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
