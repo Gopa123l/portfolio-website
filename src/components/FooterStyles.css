@@ -9,7 +9,7 @@
     margin:auto;
     display:grid;
     grid-template-columns:repeat(2,1fr);
-    grid-gap:48px;    
+    grid-gap:4px;    
 }
 
 .left{
@@ -33,9 +33,13 @@
     margin-top: 1rem;
 }
 
-h4{
+.left h4{
     font-size:1.2rem;
     padding-bottom:0.7rem;
+}
+
+h4{
+    font-size:1.2rem;
 }
 
 p{
